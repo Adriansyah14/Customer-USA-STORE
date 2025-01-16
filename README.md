@@ -18,3 +18,4 @@ Basic memberships represent the largest customer segment with a total of 1052 me
 - Customers who register through referrals do not spend more than customers who register without referrals. The average spend of both is relatively almost the same, with without referrals slightly superior.
 
 
+Check this out too : 🔗 https://docs.google.com/presentation/d/1oExe6fh2kdlhw4F9hqLyPTFeTfO_5HE93SfunV3KOf4/edit?usp=sharing 🔗
